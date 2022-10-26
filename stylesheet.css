@@ -1,0 +1,116 @@
+*{
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+
+nav{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+
+}
+
+li{
+	display: inline;
+	padding: 5px;
+	text-align: center;
+
+}
+
+section{
+	overflow: auto;
+	height: 100%;
+
+}
+
+main{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+
+}
+
+
+
+article{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 440px;
+	float: left;
+
+
+}
+
+.mart{
+	background-color: lightpink;
+}
+
+
+.funfact{
+	text-align: left;
+	background-color: lightyellow;
+}
+.mart2{
+	background-color: lightyellow;
+	padding: 10px;
+	margin: 10px;
+	width: 920px;
+	text-align: left;
+
+}
+
+.mart3{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 920px;
+	text-align: left;
+
+}
+
+
+.mart4{
+	background-color: lightyellow;
+	padding: 10px;
+	margin: 10px;
+	width: 920px;
+	text-align: left;
+
+}
+
+
+.project{
+	background-color: lightpink;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	text-align: center;
+
+
+}
+
+.blog{
+	background-color: lightyellow;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	text-align: center;
+
+}
+
+footer{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
